@@ -25,7 +25,10 @@ Welcome to our tutorial on Python automation. In this video, we will cover how t
 repetitive tasks such as web scraping, file handling, and data processing. Whether you're a beginner or 
 an advanced programmer, this video will help you streamline your workflow with Python.
 
+---
 
+### ▶️ Output Transcript
+```code
 {
   "title": "Master Python Automation: Web Scraping, File Handling & More",
   "description": "Discover how to streamline your tasks using Python in this hands-on tutorial. Learn practical automation tips covering web scraping, file handling, and data processing techniques. Whether you're a beginner or pro, this video will enhance your productivity.",
