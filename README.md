@@ -27,10 +27,12 @@ an advanced programmer, this video will help you streamline your workflow with P
 
 ---
 
-### ▶️ Output Transcript
-```code
+## ▶️ Output Transcript
+
+<pre lang="markdown"> ```
 {
   "title": "Master Python Automation: Web Scraping, File Handling & More",
   "description": "Discover how to streamline your tasks using Python in this hands-on tutorial. Learn practical automation tips covering web scraping, file handling, and data processing techniques. Whether you're a beginner or pro, this video will enhance your productivity.",
   "tags": ["python", "automation", "web scraping", "file handling", "data processing", "python tutorial", "workflow automation", "scripting", "tech tips", "productivity", "learn python", "python coding", "how to automate", "python automation", "python tasks"]
 }
+ ``` </pre>
